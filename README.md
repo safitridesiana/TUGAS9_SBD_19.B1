@@ -64,6 +64,7 @@ Tampilannya menjadi:
 
 Penambahan style.css, sehingga tampilannya menjadi:
 
+![image](https://user-images.githubusercontent.com/81596251/124398082-fc442500-dd3d-11eb-9390-4e2e5743aa90.png)
 
 ===========================================================================
 

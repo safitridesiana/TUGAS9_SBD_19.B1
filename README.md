@@ -62,11 +62,11 @@ Tampilannya menjadi:
 
 ![image](https://user-images.githubusercontent.com/81596251/124397770-141aa980-dd3c-11eb-9332-3db7505b8551.png)
 
-Penambahan style.css, sehingga tampilannya menjadi:
+6. Penambahan style.css, sehingga tampilannya menjadi:
 
 ![image](https://user-images.githubusercontent.com/81596251/124398082-fc442500-dd3d-11eb-9390-4e2e5743aa90.png)
 
-===========================================================================
+=========================================================================
 
 # TERIMA KASIH #
 
